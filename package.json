@@ -27,5 +27,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Using React.js / mongoDB and google api to create a search engine for books",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fin23/react-book-search.git"
+  },
+  "author": "ross jameson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fin23/react-book-search/issues"
+  },
+  "homepage": "https://github.com/Fin23/react-book-search#readme"
 }
